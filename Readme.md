@@ -12,7 +12,7 @@ Before you can run this project, make sure you have the following installed:
 
 To get started with this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/docker-example.git`
+1. Clone this repository: `git clone https://github.com/sanjulagathsarauom/docker-example.git`
 2. Navigate to the project directory: `cd docker-example`
 3. Build the Docker image: `docker build -t docker-example .`
 4. Run the Docker container: `docker run -p 8080:80 docker-example`
